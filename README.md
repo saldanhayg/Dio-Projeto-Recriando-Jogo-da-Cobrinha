@@ -20,17 +20,3 @@ Nele utiliza HTML, CSS e JavaScript, abordando de maneira simples diversos conce
 * <a href="https://www.w3schools.com/html/">HTML</a> 
 * <a href="https://www.w3schools.com/css/">CSS</a>
 * <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">JavaScript</a> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://ibb.co/sCFB4G2"><img src="https://i.ibb.co/2SjbrQy/example.png" alt="example" border="0"></a>
